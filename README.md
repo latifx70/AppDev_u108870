@@ -1,2 +1,5 @@
-# AppDev_u108870
-Repository for a UNIGIS module assignment
+
+# Basics of Application Development A4
+
+Submitted by u108870
+
